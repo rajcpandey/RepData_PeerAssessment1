@@ -4,10 +4,13 @@ output:
   html_document:
     keep_md: true
 ---
+--------------------------------------------------------------------------------
+
+Data source for this activity - [http://github.com/rdpeng/RepData_PeerAssessment1](RepData_PeerAssessment1)  
+File name - activity.csv
 
 
 ## Loading and preprocessing the data
-
 
 
 ## What is mean total number of steps taken per day?
